@@ -11,21 +11,15 @@ duracaoMusic.textContent = segundosParaMinutos(Math.floor(music.duration));
 
 let musicas = [
 
-    { titulo: 'My Sweat', src: 'musicas/Oficial.mp3', img: 'imgs/MYCover.jpeg' },
+    { titulo: 'My Sweat', src: 'Oficial.mp3', img: 'MYCover.jpeg' },
 
-    { titulo: 'Insteristelar Tema', src: 'musicas/Interistelar.mp3', img: 'imgs/ISCover.png' },
+    { titulo: 'Insteristelar Tema', src: 'Interistelar.mp3', img: 'ISCover.png' },
 
-    { titulo: 'Sillent Hill Tema', src: 'musicas/SHteme.mp3', img: 'imgs/SLCover.png' },
+    { titulo: 'Sillent Hill Tema', src: 'SHteme.mp3', img: 'SLCover.png' },
 
 ];
 
 let indexMusic = 0;
-
-
-
-
-
-
 
 
 // Eventos
@@ -48,14 +42,6 @@ document.querySelector('.next').addEventListener('click', () => {
     renderizarMusicar(indexMusic);
 
 });
-
-
-
-
-
-
-
-
 
 
 // Functions
