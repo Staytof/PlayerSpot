@@ -13,7 +13,7 @@ let musicas = [
 
     { titulo: 'My Sweat', src: 'Oficial.mp3', img: 'MYCover.jpeg' },
 
-    { titulo: 'Insteristelar Tema', src: 'Interistelar.mp3', img: 'ISCover.png' },
+    { titulo: 'Interestelar Tema', src: 'Interistelar.mp3', img: 'ISCover.png' },
 
     { titulo: 'Sillent Hill Tema', src: 'SHteme.mp3', img: 'SLCover.png' },
 
