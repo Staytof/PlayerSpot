@@ -15,7 +15,7 @@ let musicas = [
 
     { titulo: 'Interestelar Tema', src: 'Interistelar.mp3', img: 'ISCover.png' },
 
-    { titulo: 'Sillent Hill Tema', src: 'SHteme.mp3', img: 'SLCover.png' },
+    { titulo: 'Silent Hill Tema', src: 'SHteme.mp3', img: 'SLCover.png' },
 
 ];
 
